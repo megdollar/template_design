@@ -1,0 +1,63 @@
+.remove-all-margin{
+	margin:0 ! important;
+}
+
+.logoImg {
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+
+.nav {
+	text-transform: uppercase;
+}
+
+.stickyButton {
+	margin-bottom: 10px;
+	position: fixed;
+	right: 15px;
+	top: 200px;
+}
+
+.sticky {
+	margin-right: 10px;
+	text-transform: uppercase;
+}
+
+button.btn.btn-lg.btn-danger.sticky, button.btn.btn-danger.sticky{
+	border-color: #37479e;
+}
+
+.aboutGala {
+	background-color: gold;
+}
+
+.container.remove-all-margin.aboutGala,  .container.remove-all-margin.subContent{
+	width: 100%;
+}
+
+.subContent {
+	background-color: #37479e; 
+}
+
+.subHeading {
+	color: #37479e;
+	text-transform: uppercase;
+}
+
+.subHeading2 {
+	color: gold;
+	text-transform: uppercase;
+
+}
+
+img.img-responsive.subIcon {
+	margin: 15px;
+}
+
+p.subText, p.subText2{
+	padding: 10px;
+}
+
+p.subText2 {
+	color: white;
+}
